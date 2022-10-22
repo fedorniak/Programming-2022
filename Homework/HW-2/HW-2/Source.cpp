@@ -24,7 +24,7 @@ int main()
 
 
 
-	/*//task 18
+	//task 18
 	int x;
 	cout << "Enter number:\n ";
 	cin>> x;
@@ -40,7 +40,7 @@ int main()
 		num3 = x % 10;
 
 		cout << "Sum of digits:" << num1 + num2 + num3;
-	}*/
+	}
 
 
 	/*//task 5
@@ -58,7 +58,7 @@ int main()
 	cout << "\ngeometric mean is " <<(double) sqrt(a*1.0* b);*/
 
 
-	//task 15
+	/*//task 15
 	int num;
 	cout << "Enter month number:\n";
 	cin >> num;
@@ -103,7 +103,7 @@ int main()
 		default:
 			cout<< "Incorrect month number";
 			break;
-		}
+		}*/
 	
 	return 0;
 }
